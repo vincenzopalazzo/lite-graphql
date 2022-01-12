@@ -1,2 +1,1 @@
-# lite-graphql
-A light way implementation of GraphQL client in dart language
+A simple command-line application.
