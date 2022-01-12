@@ -1,14 +1,3 @@
-# lite GraphQL client
-
-A light way implementation of GraphQL client in dart language
-
-## Features
-
-TODO: adding this later
-
-## Getting started
-
-```dart
 import 'package:lite_graphql/lite_graphql.dart';
 
 Future<void> main() async {
@@ -27,7 +16,3 @@ Future<void> main() async {
   var listNodes = await client.useQuery(key: "QUERY_LIST_NODES");
   print('Result is: ${listNodes.toString()}');
 }
-```
-
-## License
-TODO
