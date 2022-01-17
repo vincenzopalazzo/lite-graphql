@@ -3,6 +3,9 @@ description: A light way implementation of GraphQL client in dart language.
 version: 0.0.1
 homepage: https://github.com/vincenzopalazzo/lite-graphql
 
+false_secrets:
+  - /credentials.json
+
 environment:
   sdk: '>=2.15.1 <3.0.0'
 
